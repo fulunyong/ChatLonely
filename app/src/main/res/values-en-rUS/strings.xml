@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChatLonely</string>
+
+    <string name="hello_world">hello，寂寞聊聊</string>
+    <string name="action_settings">settings</string>
+
+    <string name="edittext_notice_0">回复...</string>
+    <string name="img_laod">laoding on live</string>
+    <string name="send">send</string>
+    <string name="delete">delete</string>
+    <string name="copy">copy</string>
+
+    <string name="title_activity_joke">笑话大全</string>
+
+    <string name="activity_joke_menu_0_1">返回聊天</string>
+
+    <string name="activity_main_menu_0_1">设置昵称</string>
+    <string name="activity_main_menu_0_2">设置头像</string>
+    <string name="activity_main_menu_0_3">每日笑话</string>
+    <string name="activity_main_menu_0_4">讲个故事</string>
+    <string name="activity_main_menu_1_1">查天气</string>
+    <string name="activity_main_menu_1_2">查物流</string>
+    <string name="activity_main_menu_1_3">计算器</string>
+    <string name="activity_main_menu_1_4">冷笑话</string>
+    <string name="title_activity_history">讲讲故事</string>
+    <string name="dialog_main_quit_message">您确定要退出吗</string>
+    <string name="dialog_main_quit_title">退出提示</string>
+    <string name="btn_submit">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="tv_main_menu_setting">设置菜单</string>
+    <string name="activity_main_menu_0_5">软件列表</string>
+    <string name="toast_more_pleasantly">更多的惊喜正在努力开发中</string>
+</resources>
